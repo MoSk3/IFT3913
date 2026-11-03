@@ -24,7 +24,7 @@
   
 [concept] Tests de comptabilité dans les environnements virtualisés et conteneurisés (Docker, Kubernetes)
 - Nom: Moussa Adama Sogoba
-- Présentation: https://docs.google.com/presentation/d/1xtevPOyTlKoCBC4gh6uzWBFl57LMLjRj/edit?usp=sharing&ouid=107652418756284283199&rtpof=true&sd=true
+- Présentation:
   
 [demo] [gauge](https://github.com/getgauge/gauge) pour le test multi platformes
 - Nom: Jaden Keenan-Mbemba
@@ -32,7 +32,7 @@
   
 [demo] [selenium](https://www.selenium.dev/) pour le test web
 - Nom: Enric Soldevila
-- Présentation:
+- Présentation: https://docs.google.com/presentation/d/1-yMjXko56NkBozUOzsTWLF4KuZANTdkUqIxiUmV7M4c/edit?usp=sharing
   
 [Concept] Comment les langages de programmation eux-mêmes sont testés
 - Nom: David Stanescu
